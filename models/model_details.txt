@@ -1,0 +1,3 @@
+This folder needs to have following two files:
+	1. gpt4all-lora-quantized-ggml.bin
+	2. ggml-model-q4_0.bin
